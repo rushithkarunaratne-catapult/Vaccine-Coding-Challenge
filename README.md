@@ -14,5 +14,9 @@ Run and build instructions
 * Navigate to API3
 * Create virtual environment 
 * pip3 install -r requirements.txt
-* python3 main.py  
+* python3 main.py
+
+Run test files
+
+* python3 -m unittest test_main.Test
 
