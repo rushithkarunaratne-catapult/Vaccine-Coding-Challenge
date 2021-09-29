@@ -1,6 +1,6 @@
 # Vaccine-Coding-Challenge
 
-Vaccine rest api for AFFNO coding challenge using Flask.
+API created for a coding challenge
 
 Assumptions made -
 
