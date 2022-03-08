@@ -2,7 +2,7 @@
 from datetime import datetime, date, timedelta
 
 
-# Convert time string to a datetime.time object in 24 hour clock format
+#Convert time string to a datetime.time object in 24 hour clock format
 def convert24(time):
     try:
         if time[-2:] == "AM":
