@@ -1,8 +1,4 @@
-"""
-Affno Coding challenge
-Rushith Karunaratne
-20/05/2021
-"""
+
 from datetime import datetime, date, timedelta
 
 

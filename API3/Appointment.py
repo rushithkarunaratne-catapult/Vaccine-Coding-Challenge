@@ -1,9 +1,3 @@
-"""
-Affno Coding challenge
-Rushith Karunaratne
-20/05/2021
-"""
-
 
 # Appointment class
 class Appointment:
