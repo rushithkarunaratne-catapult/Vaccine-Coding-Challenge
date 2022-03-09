@@ -1,6 +1,6 @@
 # Vaccine-Coding-Challenge
 
-API created for a coding challenge
+Flask API created for a coding challenge
 
 Assumptions made -
 
