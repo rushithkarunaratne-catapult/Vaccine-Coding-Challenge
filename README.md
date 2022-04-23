@@ -5,7 +5,7 @@ Flask API created for a coding challenge
 Assumptions made -
 
 * A person can register for many vaccination campaigns but checking if vaccine was taken or not will happen manually.
-* Person gets registered for earliest available to simlify API.
+* Person gets registered for earliest available time to simlify API.
 * Accuracy of campaign location string is assumed.
 * Vaccination occurs 24/7
 
