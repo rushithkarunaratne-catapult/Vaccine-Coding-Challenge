@@ -14,7 +14,7 @@ app = Flask(__name__)
 def start():
     return "REST API"
 
-#add concurency
+#add concurency so that multiple requests can happen
 
 # function to check json object formatting
 def checkJson(campaign):
